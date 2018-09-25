@@ -1,0 +1,11 @@
+/Users/osmarenrique/Projects/Vektormasomenos/Vektormasomenos/obj/Debug/netcoreapp2.0/Vektormasomenos.csprojResolveAssemblyReference.cache
+/Users/osmarenrique/Projects/Vektormasomenos/Vektormasomenos/obj/Debug/netcoreapp2.0/Vektormasomenos.csproj.CoreCompileInputs.cache
+/Users/osmarenrique/Projects/Vektormasomenos/Vektormasomenos/obj/Debug/netcoreapp2.0/Vektormasomenos.AssemblyInfoInputs.cache
+/Users/osmarenrique/Projects/Vektormasomenos/Vektormasomenos/obj/Debug/netcoreapp2.0/Vektormasomenos.AssemblyInfo.cs
+/Users/osmarenrique/Projects/Vektormasomenos/Vektormasomenos/bin/Debug/netcoreapp2.0/Vektormasomenos.deps.json
+/Users/osmarenrique/Projects/Vektormasomenos/Vektormasomenos/bin/Debug/netcoreapp2.0/Vektormasomenos.runtimeconfig.json
+/Users/osmarenrique/Projects/Vektormasomenos/Vektormasomenos/bin/Debug/netcoreapp2.0/Vektormasomenos.runtimeconfig.dev.json
+/Users/osmarenrique/Projects/Vektormasomenos/Vektormasomenos/bin/Debug/netcoreapp2.0/Vektormasomenos.dll
+/Users/osmarenrique/Projects/Vektormasomenos/Vektormasomenos/bin/Debug/netcoreapp2.0/Vektormasomenos.pdb
+/Users/osmarenrique/Projects/Vektormasomenos/Vektormasomenos/obj/Debug/netcoreapp2.0/Vektormasomenos.dll
+/Users/osmarenrique/Projects/Vektormasomenos/Vektormasomenos/obj/Debug/netcoreapp2.0/Vektormasomenos.pdb

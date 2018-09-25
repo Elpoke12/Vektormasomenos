@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{1C32B90C-7439-49DA-94D7-D9A09A2540C8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Vektormasomenos/Program.cs">
+    <Files>
+      <File FileName="Vektormasomenos/Program.cs" Line="166" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Vektormasomenos PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
